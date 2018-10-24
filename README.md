@@ -76,6 +76,10 @@ Clojure is a dialect of the Lisp programming language. Clojure is a general-purp
 
 Crystal is a programming language that is still under development which aims to provide a programming experience that is “Fast as C, slick as Ruby”.
 
+- [x] **Cshell**
+
+The C shell is a command processor typically run in a text window, allowing the user to type commands.
+
 - [x] **D**
 
 D is an object-oriented, imperative, multi-paradigm system programming language created by Walter Bright of Digital Mars and released in 2001. Bright was joined in the design and development effort in 2007 by Andrei Alexandrescu.
@@ -199,6 +203,10 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 - [x] **TypeScript**
 
 - [x] **VB.NET**
+
+- [x] **Verilog**
+
+Verilog is a Hardware Description Language; a textual format for describing electronic circuits and systems.
 
 - [x] **Whitespace**
 
